@@ -1,4 +1,14 @@
 ### Hi there 👋
+# About Me
+<h1 align="center">Greeting!! I am Ethan Nguyen </h1>
+<h4 align="center">I am currently a freshman in Computer Science and Mathematics at TCU 😎.</h4>
+<h4 align="center">I have a huge ambition for programming, web development, data engineering, and even finance 👨‍🔬. </h4>
+
+# Experience
+At the beginning of my journey, I had an opportunity to work as an Information Commons Lab Assistant at Mary Coutts Burnet Library. My boss Desmond Hemphill is a nice guy, he guided me on the very first day and taught me a lot about the parts and components of computers. 
+
+#Funfact
+I am now on my way to conquer the mountain of leetcode challenges. here is my <a href="https://leetcode.com/phuthanh1832003/">leetcode</a> profile 
 
 <!--
 **phuthanh03012003/phuthanh03012003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
