@@ -7,29 +7,24 @@
 <p align="center">🛠 You'll often find me tinkering with SQL and MongoDB for database magic or using tools like VS Code, IntelliJ, Adobe Illustrator, Adobe Photoshop, Microsoft Office, and Power BI.</p>
 
 # Experience
-At the beginning of my journey, I had an opportunity to work as an Information Commons Lab Assistant at Mary Coutts Burnet Library. My boss Desmond Hemphill is a nice guy, he guided me on the very first day and taught me a lot about the parts and components of computers. 
-
 Web Developer @ Millennia Software, Ho Chi Minh, Vietnam (May 2024 – July 2024)
-Had a blast building a cool Credit Qualification Web App with Ember.js, making workflows 30% more efficient. I managed customer info using SQL Server and MySQL, and automated order data processing with C#, which was super rewarding.
+Had a blast building a cool Credit Qualification Web App with Ember.js. I managed customer info using SQL Server and MySQL, and automated order data processing with C#, which was super rewarding.
 
 IT Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (June 2024 – August 2024)
-Dived into developing the company's promotional website with JavaScript, HTML, CSS, and React.js. I also helped troubleshoot hardware/software issues for over 150 employees and managed network devices, which was a great learning experience.
+Dived into developing the company's promotional website with JavaScript, HTML, CSS, and React.js. I also helped troubleshoot hardware/software issues and managed network devices, which was a great learning experience.
 
 Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, TX (October 2023 – May 2024)
-Assisted 20+ students daily with lab resources and troubleshooting. I managed hardware/software issues and streamlined printing services using Pharos, boosting user satisfaction by 20%. My boss Desmond Hemphill was amazing, guiding me and teaching me about computer components.
+Assisted students daily with lab resources and troubleshooting. I managed hardware/software issues and streamlined printing services using Pharos. My boss Desmond Hemphill was amazing, guiding me and teaching me about computer components.
 
-#Project
+# Project
 Fanta (Movie Website)
 Technologies: JavaScript, CSS, HTML5, ReactJS, MongoDB, SQL
-Building a movie website with Login, Sign Up, and Home Page using React. Managing user accounts and movie info with MongoDB, and making it all interactive with JavaScript.
 
 Portfolio Website
 Technologies: HTML5, CSS, JavaScript
-Created a sleek and responsive interface with CSS media queries for mobile compatibility. Enhanced user experience with dynamic JavaScript features.
 
 Cryptoquote-Helper
 Technologies: Java, AWT, Swing
-Designed a user-friendly interface using AWT and Swing. Implemented Java functionalities to decode encrypted text.
 
 IoT with Raspberry Pi
 Technologies: Python, MongoDB, SQL
