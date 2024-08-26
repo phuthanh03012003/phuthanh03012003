@@ -30,6 +30,9 @@ IoT with Raspberry Pi
 Technologies: Python, MongoDB, SQL
 Collaborated on an IoT project at the University of Technology, Ho Chi Minh City, focusing on data management solutions for IoT devices and using GPIO for device control.
 
+Museum of Candy
+Technologies: Bootstrap, CSS, HTML%.
+
 # Funfact
 I am now on my way to conquer the mountain of leetcode challenges. here is my <a href="https://leetcode.com/phuthanh1832003/">leetcode</a> profile 
 
