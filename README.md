@@ -17,20 +17,20 @@ Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, TX (October 202
 Assisted students daily with lab resources and troubleshooting. I managed hardware/software issues and streamlined printing services using Pharos. My boss Desmond Hemphill was amazing, guiding me and teaching me about computer components.
 
 # Project
-Fanta (Movie Website)
+Fanta (Movie Website) <br>
 Technologies: JavaScript, CSS, HTML5, ReactJS, MongoDB, SQL
 
-Portfolio Website
+Portfolio Website <br>
 Technologies: HTML5, CSS, JavaScript
 
-Cryptoquote-Helper
+Cryptoquote-Helper <br>
 Technologies: Java, AWT, Swing
 
-IoT with Raspberry Pi
-Technologies: Python, MongoDB, SQL
+IoT with Raspberry Pi <br>
+Technologies: Python, MongoDB, SQL <br>
 Collaborated on an IoT project at the University of Technology, Ho Chi Minh City, focusing on data management solutions for IoT devices and using GPIO for device control.
 
-Museum of Candy
+Museum of Candy <br>
 Technologies: Bootstrap, CSS, HTML%.
 
 # Funfact
