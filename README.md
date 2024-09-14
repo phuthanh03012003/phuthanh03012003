@@ -27,9 +27,6 @@ IoT with Raspberry Pi <br>
 Technologies: Python, MongoDB, SQL <br>
 Collaborated on an IoT project at the University of Technology, Ho Chi Minh City, focusing on data management solutions for IoT devices and using GPIO for device control.
 
-Museum of Candy <br>
-Technologies: Bootstrap, CSS, HTML%.
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -41,11 +38,8 @@ Technologies: Bootstrap, CSS, HTML%.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
 # Funfact
 I am now on my way to conquer the mountain of leetcode challenges. here is my <a href="https://leetcode.com/phuthanh1832003/">leetcode</a> profile 
-
-![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1/phuthanh1832003/)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuthanh03012003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
