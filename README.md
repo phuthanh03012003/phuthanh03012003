@@ -20,9 +20,6 @@ Assisted students daily with lab resources and troubleshooting. I managed hardwa
 Fanta (Movie Website) <br>
 Technologies: JavaScript, CSS, HTML5, ReactJS, MongoDB, SQL
 
-Portfolio Website <br>
-Technologies: HTML5, CSS, JavaScript
-
 Cryptoquote-Helper <br>
 Technologies: Java, AWT, Swing
 
@@ -48,7 +45,7 @@ Technologies: Bootstrap, CSS, HTML%.
 # Funfact
 I am now on my way to conquer the mountain of leetcode challenges. here is my <a href="https://leetcode.com/phuthanh1832003/">leetcode</a> profile 
 
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/phuthanh1832003)
+![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1/phuthanh1832003/)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuthanh03012003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
