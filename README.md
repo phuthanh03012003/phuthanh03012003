@@ -6,7 +6,7 @@
 <p align="center">💻 I love diving into various technologies like Python, Java, C++, JavaScript, HTML, CSS, ReactJS, and more.</p>
 <p align="center">🛠 You'll often find me tinkering with SQL and MongoDB for database magic or using tools like VS Code, IntelliJ, Adobe Illustrator, Adobe Photoshop, Microsoft Office, and Power BI.</p>
 
-# Experience
+# Experiences
 Web Developer @ Millennia Software, Ho Chi Minh, Vietnam (May 2024 – July 2024)
 Had a blast building a cool Credit Qualification Web App with Ember.js. I managed customer info using SQL Server and MySQL, and automated order data processing with C#, which was super rewarding.
 
@@ -16,7 +16,7 @@ Dived into developing the company's promotional website with JavaScript, HTML, C
 Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, TX (October 2023 – May 2024)
 Assisted students daily with lab resources and troubleshooting. I managed hardware/software issues and streamlined printing services using Pharos. My boss Desmond Hemphill was amazing, guiding me and teaching me about computer components.
 
-# Project
+# Projects
 Fanta (Movie Website) <br>
 Technologies: JavaScript, CSS, HTML5, ReactJS, MongoDB, SQL
 
