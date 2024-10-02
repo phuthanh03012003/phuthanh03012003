@@ -7,14 +7,11 @@
 <p align="center">🛠 You'll often find me tinkering with SQL and MongoDB for database magic or using tools like VS Code, IntelliJ, Adobe Illustrator, Adobe Photoshop, Microsoft Office, and Power BI.</p>
 
 # Experiences
-Web Developer @ Millennia Software, Ho Chi Minh, Vietnam (May 2024 – July 2024)
-Had a blast building a cool Credit Qualification Web App with Ember.js. I managed customer info using SQL Server and MySQL, and automated order data processing with C#, which was super rewarding.
+Web Developer @ Millennia Software, Ho Chi Minh, Vietnam (May 2024 – August 2024)
 
 IT Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (June 2024 – August 2024)
-Dived into developing the company's promotional website with JavaScript, HTML, CSS, and React.js. I also helped troubleshoot hardware/software issues and managed network devices, which was a great learning experience.
 
 Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, TX (October 2023 – May 2024)
-Assisted students daily with lab resources and troubleshooting. I managed hardware/software issues and streamlined printing services using Pharos. My boss Desmond Hemphill was amazing, guiding me and teaching me about computer components.
 
 # Projects
 Fanta (Movie Website) <br>
@@ -25,7 +22,6 @@ Technologies: Java, AWT, Swing
 
 IoT with Raspberry Pi <br>
 Technologies: Python, MongoDB, SQL <br>
-Collaborated on an IoT project at the University of Technology, Ho Chi Minh City, focusing on data management solutions for IoT devices and using GPIO for device control.
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
