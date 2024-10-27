@@ -1,7 +1,7 @@
 ### Hi there 👋
 # About Me
 <h1 align="center">Greeting!! I am Ethan Nguyen </h1>
-<p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science with a minor in Mathematics at Texas Christian University, set to graduate in May 2027. </p>
+<p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science with a minor in Mathematics at Texas Christian University.</p>
 <p align="center">📚 I’ve been honored with the Founder Scholarship, and International Student Grant, and made the Dean’s List in 2023!</p>
 <p align="center">💻 I love diving into various technologies like Python, Java, C++, JavaScript, HTML, CSS, ReactJS, and more.</p>
 <p align="center">🛠 You'll often find me tinkering with SQL and MongoDB for database magic or using tools like VS Code, IntelliJ, Adobe Illustrator, Adobe Photoshop, Microsoft Office, and Power BI.</p>
