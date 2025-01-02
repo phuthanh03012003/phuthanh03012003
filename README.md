@@ -7,21 +7,23 @@
 <p align="center">🛠 You'll often find me tinkering with SQL and MongoDB for database magic or using tools like VS Code, IntelliJ, Adobe Illustrator, Adobe Photoshop, Microsoft Office, and Power BI.</p>
 
 # Experiences
-Web Developer @ Millennia Software, Ho Chi Minh, Vietnam (May 2024 – August 2024)
+Software Development Intern @ Amazon, Austin, Texas, US (May 2025 - August 2025)
 
-IT Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (June 2024 – August 2024)
+Software Engineer Intern @ Millennia Software, Irvine, California, US, remote (April 2024 – June 2024)
 
-Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, TX (October 2023 – May 2024)
+Software Engineer Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (June 2024 – August 2024)
+
+Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, Texas, US (October 2023 – May 2024)
 
 # Projects
 Fanta (Movie Website) <br>
 Technologies: JavaScript, CSS, HTML5, ReactJS, MongoDB, SQL
 
-Cryptoquote-Helper <br>
-Technologies: Java, AWT, Swing
+Southern Glazer Brand Explorer <br>
+Technologies: Python, JavaScript, Next.js, PostgreSQL <br>
 
 IoT with Raspberry Pi <br>
-Technologies: Python, MongoDB, SQL <br>
+Technologies: Python, SQL <br>
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
