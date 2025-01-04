@@ -1,4 +1,3 @@
-### Hi there 👋
 # About Me
 <h1 align="center">Greeting!! I am Ethan Nguyen </h1>
 <p align="center">🎓 I'm working towards my Bachelor's degree in Computer Science with a minor in Mathematics at Texas Christian University.</p>
