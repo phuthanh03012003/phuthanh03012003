@@ -8,9 +8,9 @@
 # Experiences
 Software Development Intern @ Amazon, Austin, Texas, US (May 2025 - August 2025)
 
-Software Engineer Intern @ Millennia Software, Irvine, California, US, remote (April 2024 – June 2024)
+Software Engineer Intern @ Millennia Software, Irvine, California, US, remote (June 2024 – August 2024)
 
-Software Engineer Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (June 2024 – August 2024)
+Software Engineer Intern @ C.P Vietnam Corporation, Ho Chi Minh, Vietnam (April 2024 – June 2024)
 
 Computer Lab Assistant @ Mary Couts Burnett Library, Fort Worth, Texas, US (October 2023 – May 2024)
 
