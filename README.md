@@ -44,3 +44,8 @@ I am now on my way to conquer the mountain of leetcode challenges. here is my <a
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phuthanh03012003&theme=dark&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phuthanh03012003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📊 LeetCode Stats:
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/phuthanh1832003?theme=light&font=Baloo&ext=contest)](https://leetcode.com/phuthanh1832003/)
+
