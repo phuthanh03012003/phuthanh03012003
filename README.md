@@ -47,5 +47,6 @@ I am now on my way to conquer the mountain of leetcode challenges. here is my <a
 
 ## 📊 LeetCode Stats:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/phuthanh1832003?theme=light&font=Baloo&ext=contest)](https://leetcode.com/phuthanh1832003/)
+![LeetCode Stats](https://leetcord.vercel.app/api?username=phuthanh1832003&theme=dark)
+
 
